@@ -1,0 +1,19 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Arduino & PlatformIO Build Outputs
+.pio/
+build/
+*.hex
+*.bin
+*.elf
+
+# KiCad Temp & Autosave Files
+*.kicad_prl
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+*.tmp
