@@ -1,0 +1,15 @@
+Item,Designator,Component Description,Qty,Footprint / Form Factor,Sourcing Reference
+1,U1,ESP32-WROOM-32 Development Board,1,2x19 2.54mm Pin Header Socket,Espressif
+2,U2,MP1584 / LM2596 DC-DC Buck Converter (12V to 5V),1,4-Pin Through-Hole Module,Generic / Amazon
+3,Q1-Q4,IRLZ44N Logic-Level N-Channel MOSFET,4,TO-220,Infineon / Vishay
+4,TEC1-TEC4,TEC1-12706 / High-Density Peltier Module,4,40mm x 40mm Solid-State,CUI / Generic
+5,F1-F4,7.5A Mini Blade Fuse + PCB Fuse Clips,4,Automotive Blade Holder,Littelfuse
+6,R1,4.7kΩ Resistor (1/4W 5%),1,Axial P10.16mm,1-Wire Pull-Up
+7,R2,10kΩ Resistor (1/4W 5%),1,Axial P10.16mm,Gate Pull-Down
+8,R3-R6,150Ω Resistor (1/4W 5%),4,Axial P10.16mm,Gate Ringing Suppression
+9,TB1-TB8,2-Pin 5.08mm PCB Screw Terminal Blocks,8,MKDS 1.5/2-5.08,Phoenix Contact
+10,J1-J3,4-Pin 2.54mm Male PWM Headers,3,Vertical 1x04 Pin Header,Molex / Generic
+11,SEN1-SEN2,DS18B20 Waterproof Temperature Sensor Probe,2,Dallas 1-Wire Probe,Maxim Integrated
+12,PSU,Mean Well LRS-350-12 (12V 29A 348W SMPS),1,Industrial Enclosure,Mean Well
+13,PUMP1-PUMP2,Freezemod DDC-Style 12V PWM Water Pump + Reservoir,2,PC Water Cooling Fitting,Freezemod
+14,RAD,360mm Aluminum Heat Exchanger Radiator + 3x 120mm Fans,1,Standard PC Liquid Cooling,Generic
